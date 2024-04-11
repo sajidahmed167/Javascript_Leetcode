@@ -17,9 +17,6 @@ console.log(Date.now() - t); // Output: 100
 /*
 
 2621. Sleep
-Easy
-Companies
-Hint
 Given a positive integer millis, write an asynchronous function that sleeps for millis milliseconds. It can resolve any value.
 
  
